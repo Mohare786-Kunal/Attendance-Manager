@@ -1,5 +1,6 @@
 openpyxl
 streamlit
 pandas
+windows-curses 
 typing
 datetime
